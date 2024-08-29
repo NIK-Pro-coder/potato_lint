@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+home = "0.5.9"
+sha256 = "1.5.0"
